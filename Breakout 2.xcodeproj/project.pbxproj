@@ -526,6 +526,7 @@
 				3FE2A1611E80B4C2003F0162 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		3FE2A1621E80B4C2003F0162 /* Build configuration list for PBXNativeTarget "Breakout 2Tests" */ = {
 			isa = XCConfigurationList;
@@ -534,6 +535,7 @@
 				3FE2A1641E80B4C2003F0162 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		3FE2A1651E80B4C2003F0162 /* Build configuration list for PBXNativeTarget "Breakout 2UITests" */ = {
 			isa = XCConfigurationList;
@@ -542,6 +544,7 @@
 				3FE2A1671E80B4C2003F0162 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
